@@ -1,0 +1,1 @@
+/cvmfs/sft.cern.ch/lcg/hepsoft/0.6/x86_64-slc5-gcc46-opt/setup.sh

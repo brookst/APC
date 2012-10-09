@@ -1,21 +1,21 @@
 [submodule "AverageTools"]
-    path = AverageTools
-    url = https://github.com/skluth/AverageTools.git
+	path = AverageTools
+	url = https://github.com/skluth/AverageTools.git
 [submodule "ConstrainedFit"]
-    path = ConstrainedFit
-    url = https://github.com/skluth/ConstrainedFit.git
+	path = ConstrainedFit
+	url = https://github.com/skluth/ConstrainedFit.git
 [submodule "INIParser"]
-    path = INIParser
-    url = https://github.com/skluth/INIParser.git
+	path = INIParser
+	url = https://github.com/skluth/INIParser.git
 [submodule "notes"]
     path = notes
     url = https://github.com/skluth/notes.git
 [submodule "RooAverageTools"]
-    path = RooAverageTools
-    url = https://github.com/skluth/RooAverageTools.git
+	path = RooAverageTools
+	url = https://github.com/skluth/RooAverageTools.git
 [submodule "RooConstrainedFit"]
-    path = RooConstrainedFit
-    url = https://github.com/skluth/RooConstrainedFit.git
+	path = RooConstrainedFit
+	url = https://github.com/skluth/RooConstrainedFit.git
 [submodule "RooUnfold"]
-    path = RooUnfold
-    url = https://github.com/skluth/RooUnfold.git
+	path = RooUnfold
+	url = https://github.com/skluth/RooUnfold.git
